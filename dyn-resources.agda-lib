@@ -1,0 +1,4 @@
+name: dyn-resources
+include: src/
+depend: standard-library
+	agda-categories
